@@ -31,7 +31,7 @@ Only the led strip was not implemented.
 
 **Also there is a Youtube video showing the project working.**
 
-**Youtube Video Link: https://www.youtube.com/watch?v=qQMk2eY3swI**
+* **Youtube Video Link: https://www.youtube.com/watch?v=qQMk2eY3swI**
 
 ---
 Made By Pedro Gomes & Tiago Grilo, 2019
