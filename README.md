@@ -20,6 +20,9 @@ This project is a proof of concept of what a Arduino based system of a safe box 
 * Jumper wires (generic)
 * Breadboard (generic)
 * Servos (Tower Pro SG90)
+* Cables
+* Power Supply (Used a PowerBank)
+* Cardboard box
 
 ---
 **Project Scheme**
