@@ -5,6 +5,9 @@
 ---
 This project is a proof of concept of what a Arduino based system of a safe box with an RFID smart lock could be.
 
+![GitHub Logo](Photos/internals2.png)
+---
+
 * The RFID system is programmed to know which users have access to the box and which users have not.
 * It also make a different sound when the RFID card is not authorized
   * The buzzer makes 3 beeps when **denying** access.
@@ -18,6 +21,7 @@ This project is a proof of concept of what a Arduino based system of a safe box 
 * Breadboard (generic)
 * Servos (Tower Pro SG90)
 
+---
 **Project Scheme**
 Only the led strip was not implemented.
 ![GitHub Logo](Photos/scheme.png)
