@@ -28,6 +28,7 @@ Only the led strip was not implemented.
 ---
 
 **More photos of the finished project inside the folder /Photos.**
+
 **Also there is a Youtube video showing the project working.**
 
 ---
