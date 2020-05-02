@@ -27,8 +27,8 @@ Only the led strip was not implemented.
 ![GitHub Logo](Photos/scheme.png)
 ---
 
-**More photos of the finished project inside the folder /Photos**
-**Also there is a Youtube video showing the project working**
+**More photos of the finished project inside the folder /Photos.**
+**Also there is a Youtube video showing the project working.**
 
 ---
 Made By Pedro Gomes & Tiago Grilo, 2019
