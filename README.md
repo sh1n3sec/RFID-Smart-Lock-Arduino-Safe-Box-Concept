@@ -18,7 +18,11 @@ This project is a proof of concept of what a Arduino based system of a safe box 
 * Breadboard (generic)
 * Servos (Tower Pro SG90)
 
-![GitHub Logo]()
+**Project Scheme**
+Only the led strip was not implemented.
+![GitHub Logo](Photos/scheme.png)
+
+**More photos of the finished project inside the folder /Photos**
 
 ---
 Made By Pedro Gomes & Tiago Grilo, 2019
