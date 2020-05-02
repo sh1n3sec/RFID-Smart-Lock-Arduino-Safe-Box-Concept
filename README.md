@@ -5,7 +5,7 @@
 ---
 This project is a proof of concept of what a Arduino based system of a safe box with an RFID smart lock could be.
 
-![GitHub Logo](Photos/internals2.png)
+![GitHub Logo](Photos/internals2.jpeg)
 ---
 
 * The RFID system is programmed to know which users have access to the box and which users have not.
