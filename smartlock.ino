@@ -16,11 +16,8 @@ MFRC522 mfrc522(SS_PIN, RST_PIN);
 
 uint8_t NUMPIXELS = 10;      // total number of LED's in the ring display
 int ot = 1;
-//Adafruit_NeoPixel strip = Adafruit_NeoPixel(NUMPIXELS, RINGPIN, NEO_RGB + NEO_KHZ800);  // an instance for the LED ring display
-
 
 //Tone
-
 const int c = 261;
 const int d = 294;
 const int e = 329;
@@ -48,7 +45,6 @@ const int buzzerPin = 7;
 void setup() {
   // put your setup code here, to run once:
   myservo.attach(5);
-  //strip.begin();
   //Setup pin modes
   pinMode(buzzerPin, OUTPUT);
   Serial.begin(9600);
@@ -56,8 +52,6 @@ void setup() {
   mfrc522.PCD_Init();   // Initiate MFRC522
   Serial.println("Please Scan Your Card...");
   Serial.println();
-  //servocheck();
-  //myservo.write(90);
 }
 
 void loop() {
